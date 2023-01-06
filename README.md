@@ -1,6 +1,7 @@
 # Gaussian-Mixture-Model
 
-Clustering using Gaussian Mixture Model
+Clustering using Gaussian Mixture Model.
+Result of GMM using K = 3 and Max iteration = 25 with full covariance model.
 ![Responsibility](https://github.com/skij487/Gaussian-Mixture-Model/blob/main/images/responsibilities.svg)
 
 ## How to Run
